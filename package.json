@@ -1,7 +1,7 @@
 {
-  "name": "LocalProductSearch",
+  "name": "Express-Dockerized",
   "version": "1.0.0",
-  "description": "A desktop web-app which helps you find cheap products locally. Uses the Factual API.",
+  "description": "A bare-bones express app designed to run in a docker container.",
   "main": "index.js",
   "scripts": {
     "start": "ExpressApp/bin/www",
